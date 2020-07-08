@@ -1,2 +1,2 @@
 # DroneLib
-API for programming drones.
+API for drone programming.
